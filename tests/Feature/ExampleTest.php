@@ -3,6 +3,7 @@
 namespace Tests\Feature;
 
 // use Illuminate\Foundation\Testing\RefreshDatabase;
+use SergiX44\Nutgram\Nutgram;
 use Tests\TestCase;
 
 class ExampleTest extends TestCase
